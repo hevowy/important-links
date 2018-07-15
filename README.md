@@ -25,6 +25,7 @@
 The main goal of this project is to create a large database with all helpful links for programmers, graphic designers and more. Adequate categorization is designed to help you find what you need!
 
 # Design
+> icons, typography, colors, mockups and more
 
 ## Icons
 * [flat icon](https://www.flaticon.com/)
@@ -89,6 +90,7 @@ _in progress_
 * [little ui details](https://twitter.com/i/moments/880688233641848832)
 
 # Front-End
+> code formatters, validators and more
 
 ## Code-Minifier
 * [html minifier](https://www.willpeavy.com/minifier/)
