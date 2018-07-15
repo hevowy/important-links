@@ -3,10 +3,10 @@
 
 ## Menu
 * Design(in-progress)
-* [General info](#general info)
+* [General info](#general-info)
 * [Icons](#icons)
 * [Typography](#typography)
-* [Color Palettes](#color palettes)
+* [Color Palettes](#color-palettes)
 * [Gradients](#gradients)
 * [Patterns](#patterns)
 * [Mockups](#mockups)
@@ -15,9 +15,9 @@
 * [Design Rules](#design rules(ui/ux, webdesign))
 
 * Front-End(in-progress)
-* [Code Minifier](#code minifier)
-* [Code Formatter](#code formatter)
-* [Speed Web Test](#speed web test)
+* [Code Minifier](#code-minifier)
+* [Code Formatter](#code-formatter)
+* [Speed Web Test](#speed-web-test)
 * [Validators](#validators)
 
 ## General info
@@ -38,7 +38,7 @@ The main goal of this project is to create a large database with all helpful lin
 * [google fonts](https://fonts.google.com/)
 * [dafont](https://www.dafont.com/)
 
-## Color Palettes
+## Color-Palettes
 * [material palette](https://www.materialpalette.com/)
 * [color hunt](http://colorhunt.co/)
 * [paletton](http://paletton.com/)
@@ -89,15 +89,15 @@ _in progress_
 
 # Front-End
 
-## Code Minifier
+## Code-Minifier
 * [html minifier](https://www.willpeavy.com/minifier/)
 * [css minifier](https://cssminifier.com)
 * [css unused](https://unused-css.com)
 
-## Code Formatter
+## Code-Formatter
 * [freeformatter](https://www.freeformatter.com)
 
-## Speed Web Test
+## Speed-Web-Test
 * [google speed](https://developers.google.com/speed/)
 
 ## Validators
