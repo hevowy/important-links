@@ -2,7 +2,7 @@
 > This repository is a collection of the most important links and help for programmers and graphic designers.
 
 ## Menu
-* Design(in-progress)
+* ## Design(in-progress)
 * [General info](#general-info)
 * [Icons](#icons)
 * [Typography](#typography)
@@ -15,7 +15,7 @@
 * [Design Rules](#design-rules)
 * [Inspiration](#inspiration)
 
-* Front-End(in-progress)
+* ## Front-End(in-progress)
 * [Code Minifier](#code-minifier)
 * [Code Formatter](#code-formatter)
 * [Speed Web Test](#speed-web-test)
