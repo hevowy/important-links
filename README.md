@@ -12,7 +12,8 @@
 * [Mockups](#mockups)
 * [Stocks(Photo)](#stocks(photo))
 * [Stocks(Video)](#stocks(video))
-* [Design Rules](#design rules(ui/ux, webdesign))
+* [Design Rules](#design-rules)
+* [Inspiration](#inspiration)
 
 * Front-End(in-progress)
 * [Code Minifier](#code-minifier)
@@ -71,7 +72,7 @@ _in progress_
 * [vimeo freestockfootage](https://vimeo.com/channels/freestockfootage)
 * [allthefreestock](http://allthefreestock.com/)
 
-## Inspiration(ui/ux, webdesign)
+## Inspiration
 * [theme forest](https://themeforest.net/)
 * [awwwards](https://www.awwwards.com/)
 * [graphic river](https://graphicriver.net/?osr=tn)
@@ -79,7 +80,7 @@ _in progress_
 * [css design awards](https://www.cssdesignawards.com/)
 * [pinterest webdesign](https://pl.pinterest.com/search/pins/?q=webdesign&rs=typed&term_meta[]=webdesign%7Ctyped)
 
-## Design Rules
+## Design-Rules
 * [typography google](https://material.io/design/typography/the-type-system.html#type-scale)
 * [typography microsoft](https://docs.microsoft.com/pl-pl/windows/uwp/design/style/typography)
 * [videezy](https://www.videezy.com/)
