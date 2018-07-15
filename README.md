@@ -28,13 +28,14 @@ The main goal of this project is to create a large database with all helpful lin
 > icons, typography, colors, mockups and more
 
 ## Icons
-* [flat icon](https://www.flaticon.com/)
-* [svg porn](https://svgporn.com/)
-* [dev icon](http://konpa.github.io/devicon/)
+* [flaticon](https://www.flaticon.com/)
+* [svgporn](https://svgporn.com/)
+* [devicon](http://konpa.github.io/devicon/)
 * [material.io](https://material.io/icons/)
-* [ico moon](https://icomoon.io/)
-* [font awesome](https://fontawesome.com/)
+* [icomoon](https://icomoon.io/)
+* [fontawesome](https://fontawesome.com/)
 * [zondicons](http://www.zondicons.com)
+* [icons8](https://icons8.com/)
 
 ## Typography
 * [google fonts](https://fonts.google.com/)
@@ -63,15 +64,15 @@ _in progress_
 * [freepik](https://www.freepik.com/)
 * [adobe stock](https://stock.adobe.com/)
 * [unsplash](https://unsplash.com/)
-* [getty images](https://www.gettyimages.com/)
-* [all the freestock](http://allthefreestock.com/)
+* [gettyimages](https://www.gettyimages.com/)
+* [allthefreestock](http://allthefreestock.com/)
 
 ## Stocks(video)
 * [pexels video](https://videos.pexels.com/)
 * [motion elements](http://www.motionelements.com/)
 * [videezy](https://www.videezy.com/)
 * [vimeo freestockfootage](https://vimeo.com/channels/freestockfootage)
-* [all the freestock](http://allthefreestock.com/)
+* [allthefreestock](http://allthefreestock.com/)
 
 ## Inspiration
 * [theme forest](https://themeforest.net/)
