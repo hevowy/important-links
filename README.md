@@ -2,24 +2,24 @@
 > This repository is a collection of the most important links and help for programmers and graphic designers.
 
 ## Menu
-* ### Design(in-progress)
-* [General info](#general-info)
-* [Icons](#icons)
-* [Typography](#typography)
-* [Color Palettes](#color-palettes)
-* [Gradients](#gradients)
-* [Patterns](#patterns)
-* [Mockups](#mockups)
-* [Stocks(Photo)](#stocks(photo))
-* [Stocks(Video)](#stocks(video))
-* [Design Rules](#design-rules)
-* [Inspiration](#inspiration)
+* ### Design
+* [general info](#general-info)
+* [icons](#icons)
+* [typography](#typography)
+* [color palettes](#color-palettes)
+* [gradients](#gradients)
+* [patterns](#patterns)
+* [mockups](#mockups)
+* [stocks(photo)](#stocks(photo))
+* [stocks(video)](#stocks(video))
+* [design rules](#design-rules)
+* [inspiration](#inspiration)
 
-* ### Front-End(in-progress)
-* [Code Minifier](#code-minifier)
-* [Code Formatter](#code-formatter)
-* [Speed Web Test](#speed-web-test)
-* [Validators](#validators)
+* ### Front-End
+* [code minifier](#code-minifier)
+* [code formatter](#code-formatter)
+* [speed web test](#speed-web-test)
+* [validators](#validators)
 
 ## General info
 The main goal of this project is to create a large database with all helpful links for programmers, graphic designers and more. Adequate categorization is designed to help you find what you need!
@@ -98,7 +98,7 @@ _in progress_
 * [css unused](https://unused-css.com)
 
 ## Code-Formatter
-* [freeformatter](https://www.freeformatter.com)
+* [free formatter](https://www.freeformatter.com)
 
 ## Speed-Web-Test
 * [google speed](https://developers.google.com/speed/)
