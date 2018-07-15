@@ -72,5 +72,5 @@ Project is: _all the time in progress_
 
 ## Credits
 Created by [@HeV or @HeVowy]
-Discord: HeV#0154
-Send me interesting links in a private message!
+> Discord: HeV#0154
+> Send me interesting links in a private message!
