@@ -81,6 +81,7 @@ _in progress_
 * [dribble material-design](https://dribbble.com/tags/material_design)
 * [css design awards](https://www.cssdesignawards.com/)
 * [pinterest webdesign](https://pl.pinterest.com/search/pins/?q=webdesign&rs=typed&term_meta[]=webdesign%7Ctyped)
+* [creative ui&ux](https://www.instagram.com/p/Bk3d7HZBzll/?taken-by=unickdesigns)
 
 ## Design-Rules
 * [typography google](https://material.io/design/typography/the-type-system.html#type-scale)
@@ -89,6 +90,7 @@ _in progress_
 * [shadows google](https://material.io/guidelines/resources/shadows.html#shadows-illustrator)
 * [color apple](https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/)
 * [little ui details](https://twitter.com/i/moments/880688233641848832)
+* [contrast checker](https://webaim.org/resources/contrastchecker/)
 
 # Front-End
 > code formatters, validators and more
@@ -106,6 +108,9 @@ _in progress_
 
 ## Validators
 * [w3c validation](https://jigsaw.w3.org/css-validator/#validate_by_input+with_options)
+
+## Real Content
+* [lists design](https://www.lists.design)
 
 ## Status
 Project is: _all the time in progress_
