@@ -2,7 +2,7 @@
 > This repository is a collection of the most important links and help for programmers and graphic designers.
 
 ## Menu
-* ### Design
+### Design
 * [general info](#general-info)
 * [icons](#icons)
 * [typography](#typography)
@@ -15,7 +15,7 @@
 * [design rules](#design-rules)
 * [inspiration](#inspiration)
 
-* ### Front-End
+### Front-End
 * [code minifier](#code-minifier)
 * [code formatter](#code-formatter)
 * [speed web test](#speed-web-test)
@@ -54,7 +54,7 @@ The main goal of this project is to create a large database with all helpful lin
 * [web gradients](https://webgradients.com/)
 
 ## Patterns
-* [toptal subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
+* [toptal subtle patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 ## Mockups
 _in progress_
@@ -63,15 +63,15 @@ _in progress_
 * [freepik](https://www.freepik.com/)
 * [adobe stock](https://stock.adobe.com/)
 * [unsplash](https://unsplash.com/)
-* [gettyimages](https://www.gettyimages.com/)
-* [allthefreestock](http://allthefreestock.com/)
+* [getty images](https://www.gettyimages.com/)
+* [all the freestock](http://allthefreestock.com/)
 
 ## Stocks(video)
 * [pexels video](https://videos.pexels.com/)
 * [motion elements](http://www.motionelements.com/)
 * [videezy](https://www.videezy.com/)
 * [vimeo freestockfootage](https://vimeo.com/channels/freestockfootage)
-* [allthefreestock](http://allthefreestock.com/)
+* [all the freestock](http://allthefreestock.com/)
 
 ## Inspiration
 * [theme forest](https://themeforest.net/)
